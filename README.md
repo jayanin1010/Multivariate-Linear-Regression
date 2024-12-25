@@ -36,6 +36,9 @@ RegisterNumber: 24900024
     import pandas as pd
     from sklearn import linear_model
     df = pd.read_csv("carsemission.csv")
+    df.info()
+    df.head()
+    df.tail()
     X = df[['Weight', 'Volume']]
     y = df['CO2']
     regr = linear_model.LinearRegression()
