@@ -50,7 +50,8 @@ RegisterNumber: 24900024
 
 ## Output:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b6b08ef6-089d-4c8e-9be2-20924e5c3023)
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
